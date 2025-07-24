@@ -1,5 +1,6 @@
 🎓 University Portal Management System
-📌 Overview
+
+
 The University Portal Management System is a desktop application designed to manage academic and administrative activities efficiently. It supports three types of users:
 
 Admin – Manages users, courses, and system settings.
