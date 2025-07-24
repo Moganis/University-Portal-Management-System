@@ -1,0 +1,83 @@
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\bin\Debug\UMS.exe.config
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\bin\Debug\UMS.exe
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\bin\Debug\UMS.pdb
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.Properties.Resources.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.csproj.GenerateResource.cache
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.exe
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.pdb
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.Form1.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.Admin.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.Login.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.Student.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.Teachers.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.Courses.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.Department.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.Home.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.FacultyDashboard.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.FacultyResult.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.FacultyReg.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.FacultyApplication.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.StudentData.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentDashboard.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.CourseGrade.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentResult.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentApplication.resources
+C:\Users\hp-01\Desktop\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentReg.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.exe
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.pdb
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\bin\Debug\UMS.exe.config
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\bin\Debug\UMS.exe
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\bin\Debug\UMS.pdb
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.Admin.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.Courses.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.Department.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.FacultyApplication.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.FacultyDashboard.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.FacultyReg.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.FacultyResult.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.Form1.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.Home.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.Login.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.Properties.Resources.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.Student.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.StudentData.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.Teachers.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.csproj.GenerateResource.cache
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.FacultyChangePass.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.CourseGrade.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentApplication.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentDashboard.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentReg.resources
+C:\Users\UseR\Desktop\C#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentResult.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\bin\Debug\UMS.exe.config
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\bin\Debug\UMS.exe
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\bin\Debug\UMS.pdb
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.Admin.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.CourseGrade.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.Courses.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.Department.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.FacultyApplication.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.FacultyChangePass.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.FacultyDashboard.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.FacultyReg.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.FacultyResult.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.Form1.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.Home.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.Login.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.Properties.Resources.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.Student.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentApplication.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentDashboard.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.StudentData.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentReg.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.StudentsInfo.StudentResult.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.Teachers.resources
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.csproj.GenerateResource.cache
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.exe
+C:\My Downloads\AIUB MATERIALS\project c#\C#\University Management System\UMS\obj\Debug\UMS.pdb
