@@ -9,8 +9,9 @@ Faculty – Manages course, grades, and communicates with students.
 
 Student – Views courses, adds courses,  view grades.
 
-👤 Admin
-Add/edit/delete/update students,f aculty, courses
+👤 Admin: 
+
+can Add/edit/delete/update students, faculty, courses
 
 Create and manage courses
 
@@ -18,18 +19,22 @@ Assign faculty to courses
 
 
 
-👨‍🏫 Faculty
-View assigned courses
+👨‍🏫 Faculty:
 
-assign grades, update grades
+-View profile
+-View assigned courses
 
-Create and grade assignments
+- give grades, update grades
 
-View enrolled students
+- Create and grade assignments
+
+- View enrolled students
 
 
 
-👨‍🎓 Student
+
+👨‍🎓 Student:
+
 View profile and enrolled courses
 
 Can update, add, and delete courses
